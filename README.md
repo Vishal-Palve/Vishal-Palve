@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 I'm Vishal Palve
 
-<!--
-**Vishal-Palve/Vishal-Palve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence & Data Science  
+👨‍💻 Java Developer | AI/ML Enthusiast | Tech Explorer  
+🌱 Currently learning Spring Boot, Machine Learning & System Design  
+🛠️ Working on Java backend and AI automation projects  
+📫 Reach me: [LinkedIn](https://linkedin.com/in/vishalpalve) | [Email](mailto:vishal.palve@example.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack  
+**Languages**: Java, Python, SQL  
+**Frameworks**: Spring Boot, scikit-learn, Pandas  
+**Tools**: Git, GitHub, VS Code, IntelliJ  
+**Databases**: MySQL, MongoDB
+
+---
+
+### 🚀 Projects  
+Check out some of my work in Java, AI/ML, and automation:  
+➡️ [github.com/Vishal-Palve](https://github.com/Vishal-Palve)
+
+---
+
+### 💬 Ask Me About  
+Java development, ML models, Spring Boot, DSA, or anything tech!
+
+---
+
+⚡ *Fun fact: I probably debugged this README at least twice.*
+
