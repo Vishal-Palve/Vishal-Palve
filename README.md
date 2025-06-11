@@ -4,7 +4,7 @@
 👨‍💻 Java Developer | AI/ML Enthusiast | Tech Explorer  
 🌱 Currently learning Spring Boot, Machine Learning & System Design  
 🛠️ Working on Java backend and AI automation projects  
-📫 Reach me: [LinkedIn]([(https://www.linkedin.com/in/vishal-palve-5494ba247)] | [Email](vishalpalve1011@gmail.com)
+📫 Reach me: [LinkedIn]([(https://www.linkedin.com/in/vishal-palve-5494ba247)]) | [Email](vishalpalve1011@gmail.com)
 
 ---
 
