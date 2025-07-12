@@ -5,7 +5,7 @@
 👨‍💻 Java Backend Developer | AI/ML Enthusiast | System Design Learner <br>
 🚀 Passionate about building scalable backend systems and intelligent automation solutions <br>
 📫 <a href="mailto:vishalxpalve@gmail.com">Email</a> • 
-<a href="https://www.linkedin.com/in/vishal-palve-5494ba247/">LinkedIn</a> • 
+<a href="https://www.linkedin.com/in/vishalxpalve/">LinkedIn</a> • 
 <a href="https://github.com/Vishal-Palve">GitHub</a>
 </p>
 
@@ -33,31 +33,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 [Trendfluence – AI Influencer Marketing Platform](https://github.com/Vishal-Palve/Trendfluence)
-**NLP | Flask | React | Big Data**  
-➤ Built a full-stack platform analyzing 1K+ influencer campaigns  
-➤ Integrated Hugging Face Transformers for sentiment and trend analysis  
-➤ Improved marketing ROI analysis by **25%**
-
----
-
-### 🔹 [Banking Application – Secure RESTful API](https://github.com/Vishal-Palve/Banking-Application)
-**Spring Boot | Spring Security | MySQL**  
-➤ Developed a secure backend handling **5K+ transactions**  
-➤ Implemented JWT auth, encrypted PINs, and role-based access  
-➤ Optimized SQL operations with Spring JPA
-
----
-
-### 🔹 [InvestGenie – AI-Powered Investment Advisor](https://github.com/Vishal-Palve/InvestGenie)
-**Python | NLP | LLMs | MongoDB | Streamlit**  
-➤ Built an interactive chat-based financial advisor using LLMs  
-➤ Personalized portfolio recommendations for **100+ users**  
-➤ Reduced decision-making time by **30%**
-
----
 
 ## 📜 Certifications & Trainings
 
