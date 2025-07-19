@@ -5,8 +5,7 @@
 👨‍💻 Java Backend Developer | AI/ML Enthusiast | System Design Learner <br>
 🚀 Passionate about building scalable backend systems and intelligent automation solutions <br>
 📫 <a href="mailto:vishalxpalve@gmail.com">Email</a> • 
-<a href="https://www.linkedin.com/in/vishalxpalve/">LinkedIn</a> • 
-<a href="https://github.com/Vishal-Palve">GitHub</a>
+<a href="https://www.linkedin.com/in/vishalxpalve/">LinkedIn</a> 
 </p>
 
 ---
