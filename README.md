@@ -22,9 +22,8 @@
 
 | Area             | Tools & Technologies |
 |------------------|----------------------|
-| **Languages**     | Java, Python, SQL, HTML/CSS |
-| **Frameworks**    | Spring Boot, Flask, JUnit, REST APIs |
-| **ML/AI**         | scikit-learn, Pandas, NumPy, TensorFlow, PyTorch, Hugging Face, LLMs |
+| **Languages**     | Java, Python, SQL |
+| **Frameworks**    | Spring Boot, JUnit, REST APIs |
 | **Cloud & DevOps**| AWS (EC2, S3, RDS), Docker, GitHub Actions |
 | **Databases**     | MySQL, PostgreSQL, MongoDB |
 | **Tools**         | IntelliJ, VS Code, Git, Postman |
@@ -35,9 +34,8 @@
 
 ## 📜 Certifications & Trainings
 
-- ✅ IBM Data Analyst Professional Certificate – Coursera  
-- ✅ IBM Data Science Professional Certificate – Coursera  
-- 🎓 **AI Immersion Program**, IIT Jodhpur – Feb 2024
+- ✅ IBM Data Analyst Professional Certificate – Coursera
+
 
 ---
 
