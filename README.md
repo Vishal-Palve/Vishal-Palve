@@ -2,8 +2,8 @@
 
 <p align="center">
 🎓 B.Tech in Artificial Intelligence & Data Science (VIIT Pune) <br>
-👨‍💻 Java Backend Developer | AI/ML Enthusiast | System Design Learner <br>
-🚀 Passionate about building scalable backend systems and intelligent automation solutions <br>
+👨‍💻 Java Backend Developer | GenAI & LLM Engineer | AI Agent Workflow Builder <br>
+🚀 Passionate about scalable backend systems, intelligent automation, and RAG-powered AI applications <br>
 📫 <a href="mailto:vishalxpalve@gmail.com">Email</a> • 
 <a href="https://www.linkedin.com/in/vishalxpalve/">LinkedIn</a> 
 </p>
@@ -12,9 +12,11 @@
 
 ## 🧠 About Me
 
-- 💡 I’m a developer who blends backend expertise with ML innovation.
-- 🏗️ I design RESTful APIs, secure systems, and automate workflows using modern tech.
-- 🎯 Focused on solving real-world problems through tech-driven creativity.
+- 💡 Backend developer blending **Spring Boot** with next-gen **GenAI systems**.
+- 🤖 Build **AI Agents**, **RAG pipelines**, and **LLM-powered automation** (CrewAI, LangChain).
+- 🏗️ Design **secure REST APIs**, microservices, and cloud-ready applications.
+- ⚙️ Enjoy optimizing queries, reducing latency, and improving system scalability.
+- 🎯 Love solving real-world problems through practical AI + engineering.
 
 ---
 
@@ -23,26 +25,37 @@
 | Area             | Tools & Technologies |
 |------------------|----------------------|
 | **Languages**     | Java, Python, SQL |
-| **Frameworks**    | Spring Boot, JUnit, REST APIs |
-| **Cloud & DevOps**| AWS (EC2, S3, RDS), Docker, GitHub Actions |
+| **Backend**       | Spring Boot, Spring Security, Hibernate, FastAPI |
 | **Databases**     | MySQL, PostgreSQL, MongoDB |
-| **Tools**         | IntelliJ, VS Code, Git, Postman |
-| **Practices**     | Agile, OOP, MVC, Microservices |
+| **Cloud & DevOps**| AWS (EC2, S3, RDS), Docker, GitHub Actions |
+| **AI/ML**         | LLMs, RAG, Vector DBs (FAISS/Chroma), CrewAI, LangChain, OpenAI/Cerebras APIs |
+| **Practices**     | OOP, MVC, Microservices, Agile |
+| **Tools**         | IntelliJ, VS Code, Postman, Git |
 
 ---
 
+## 🤖 GenAI & LLM Expertise
 
-## 📜 Certifications & Trainings
+- Build **RAG pipelines** with vector search for domain-specific reasoning.
+- Develop **multi-agent systems** using CrewAI for automation workflows.
+- Optimize LLM inference latency using **Cerebras API**.
+- Implement **secure AI-powered APIs** with FastAPI or Spring Boot.
+- Integrate LLMs into full-stack / backend systems with cloud deployment.
 
-- ✅ IBM Data Analyst Professional Certificate – Coursera
+---
 
+## 📜 Certifications
+
+- IBM Data Analyst Professional Certificate – Coursera  
+- Java Programming – GeeksForGeeks  
+- Spring Boot & Hibernate – Udemy  
 
 ---
 
 ## 💬 Let’s Connect
 
-If you’re looking for a passionate backend developer with AI/ML skills and project-driven experience, feel free to reach out!  
-I’d love to collaborate, learn, or help you build something impactful.
+If you're searching for a **backend developer** who also builds **GenAI automation, agentic systems, and LLM-driven platforms**, feel free to reach out.  
+I’d love to collaborate, brainstorm, or help build something impactful!
 
 ---
 
