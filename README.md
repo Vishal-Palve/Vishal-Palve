@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 B.Tech in Artificial Intelligence & Data Science (VIIT Pune) <br>
-👨‍💻 Java Backend Developer | GenAI & LLM Engineer | AI Agent Workflow Builder <br>
+👨‍💻  GenAI & LLM Engineer | Java Backend Developer | AI Agent Workflow Builder <br>
 🚀 Passionate about scalable backend systems, intelligent automation, and RAG-powered AI applications <br>
 📫 <a href="mailto:vishalxpalve@gmail.com">Email</a> • 
 <a href="https://www.linkedin.com/in/vishalxpalve/">LinkedIn</a> 
