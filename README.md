@@ -6,7 +6,6 @@
 🚀 Building scalable backend systems and production-grade AI automation platforms <br>
 📫 <a href="mailto:vishalxpalve@gmail.com">Email</a> • 
 <a href="https://www.linkedin.com/in/vishalxpalve/">LinkedIn</a> • 
-<a href="https://github.com/">GitHub</a>
 </p>
 
 ---
